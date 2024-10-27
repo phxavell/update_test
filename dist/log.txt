@@ -1,0 +1,8 @@
+2024-10-21 10:47:21 - Servidor: São Bernardo do Campo, Localização: Brazil, Ping: 65.028 ms, Download: 106.11 Mbps, Upload: 59.06 Mbps, Status: APROVADO
+2024-10-21 10:48:04 - Servidor: São Bernardo do Campo, Localização: Brazil, Ping: 64.45 ms, Download: 85.34 Mbps, Upload: 58.69 Mbps, Status: APROVADO
+2024-10-21 10:48:47 - Servidor: São Bernardo do Campo, Localização: Brazil, Ping: 62.872 ms, Download: 119.72 Mbps, Upload: 61.38 Mbps, Status: APROVADO
+2024-10-21 10:49:30 - Servidor: São Bernardo do Campo, Localização: Brazil, Ping: 63.859 ms, Download: 81.75 Mbps, Upload: 58.78 Mbps, Status: APROVADO
+2024-10-21 14:00:15 - Servidor: Itatiba, Localização: Brazil, Ping: 107.061 ms, Download: 97.42 Mbps, Upload: 57.83 Mbps, Status: APROVADO
+2024-10-21 14:00:59 - Servidor: Jundiaí, Localização: Brazil, Ping: 79.382 ms, Download: 5.47 Mbps, Upload: 11.29 Mbps, Status: REPROVADO: taxa de upload de baixa qualidade
+2024-10-21 14:01:44 - Servidor: Jundiaí, Localização: Brazil, Ping: 84.351 ms, Download: 6.30 Mbps, Upload: 8.05 Mbps, Status: REPROVADO: taxa de upload de baixa qualidade
+2024-10-21 14:02:28 - Servidor: Itatiba, Localização: Brazil, Ping: 70.21 ms, Download: 112.98 Mbps, Upload: 60.94 Mbps, Status: APROVADO

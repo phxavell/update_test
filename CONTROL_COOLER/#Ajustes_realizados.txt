@@ -1,0 +1,19 @@
+
+
+============= MÁQUINAS JÁ AJUSTADAS PARA O TESTE DE COOLER =============
+
+		
+		Ajustado A70HYB / Ajustado Storm2 - OK
+		(Versão de BIOS semelhantes)
+		
+		StormX - OK
+
+		StormBS-4050 - OK
+
+		A70ION - OK
+
+========================================================================
+
+Filtro para saber a versão de Windows e implementar a melhoria de coordenadas:
+
+Microsoft Windows 11 Pro     (versao1)
